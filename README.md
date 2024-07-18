@@ -11,7 +11,8 @@
   ```bash
   $ python3 eyelock.py
   ```
-<img src="images/eyelock.png" width="300" height="300">
+![eyelock](https://github.com/user-attachments/assets/47296088-c462-4593-b02c-b40b8361f4ba)
+
 ## License
 MIT © Eyelock
 
