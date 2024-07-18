@@ -1,12 +1,19 @@
 # Eyelock
 ## Description
-* A simple tool to do automotive Port Scanner on the main IP ports for a Pentester wor, written in the article https://developers.cloudflare.com/fundamentals/reference/network-ports/ by Cloudflare.
+* A simple tool to do automotive Port Scanner on the main IP ports for a Pentester, written in the article https://developers.cloudflare.com/fundamentals/reference/network-ports/ by Cloudflare.
 * The code in the [eyelock.py](https://github.com/rainbowcrack/Eyelock/blob/main/eyelock.py) file can be pasted into an IDE or Terminal with Python already pre-installed.
   
  Example in Linux:
   ```bash
   $ nano eyelock.py
+  ``` 
+
+Add the file [bash.sh](https://github.com/rainbowcrack/Eyelock/blob/main/bash.sh) or write it yourself:
+
+  ```bash
+  #!usr/bin/python3 
   ```
+
   Use:
   ```bash
   $ python3 eyelock.py
