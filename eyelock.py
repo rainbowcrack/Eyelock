@@ -1,3 +1,5 @@
+# !pip install socket
+
 # python library that calls the OS to do an action on the network. Dialogue Hardware/Software
 import socket
 
