@@ -16,8 +16,9 @@ Use:
   $ python3 eyelock.py
   ```
 
-Example in Linux (Shell Script - Bash)
-Add the file [bash.sh](https://github.com/rainbowcrack/Eyelock/blob/main/bash.sh) or write it yourself:
+Example in Linux (Shell Script - Bash):
+
+Add the file [bash.sh](https://github.com/rainbowcrack/Eyelock/blob/main/bash.sh) or write it yourself.
 
   ```bash
   #!usr/bin/python3 
