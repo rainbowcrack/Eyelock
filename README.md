@@ -4,7 +4,11 @@
 
 ## Description
 * A simple tool to do automotive Port Scanner on the main IP ports for a Pentester, written in the article https://developers.cloudflare.com/fundamentals/reference/network-ports/ by Cloudflare.
+
+## Use
 * The code in the [eyelock.py](https://github.com/rainbowcrack/Eyelock/blob/main/eyelock.py) file can be pasted into an IDE or Terminal with Python already pre-installed.
+* The code can run in the cloud, such as Google Cloud. Following the steps for Shell Script - Bash.
+* Runs on operating systems Debian, Ubuntu, Federal, Kali Linux... and some verses macOS.
   
  Example in Linux (Python File):
   ```bash
