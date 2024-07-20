@@ -7,8 +7,9 @@
 
 ## Use
 * The code in the [eyelock.py](https://github.com/rainbowcrack/Eyelock/blob/main/eyelock.py) file can be pasted into an IDE or Terminal with Python already pre-installed.
-* The code can run in the cloud, such as Google Cloud. Following the steps for Shell Script - Bash.
-* Runs on operating systems Debian, Ubuntu, Federal, Kali Linux... and some verses macOS.
+* The code in the [eyelock.sh](https://github.com/rainbowcrack/Eyelock/blob/main/eyelock.sh) file, runs on operating systems Debian, Ubuntu, Federal, Kali Linux... and some verses macOS.
+* Run in the Cloud, such as Google Cloud. Following the any steps for Python or Bash file.
+
   
  Example in Linux (Python File):
   ```bash
