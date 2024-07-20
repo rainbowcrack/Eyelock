@@ -19,6 +19,8 @@ ports = {
         "RDP":3389
 }
 
+print("--------------- Eyelock v 1.0 by Rainbowcrack ---------------")
+
 host = input("Enter a website URL or IP address: ")
 
 # loop through each item in dictionary and test for error
