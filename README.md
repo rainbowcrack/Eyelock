@@ -36,4 +36,4 @@ Use:
 ## License
 MIT © Eyelock
 
-Original Creator - [Rainbowcrack](https://github.com/rainbowcrack)
+Original Creator - [Rainbowcrack](https://github.com/rainbowcrack) (Izabel Chaves)
